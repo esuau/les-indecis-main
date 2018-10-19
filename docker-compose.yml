@@ -1,0 +1,7 @@
+version: '3'
+services:
+  api:
+    build: ./api
+    container_name: les-indecis-api
+    ports:
+      - '8080:80'
