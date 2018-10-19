@@ -5,3 +5,8 @@ services:
     container_name: les-indecis-api
     ports:
       - '8080:80'
+  web:
+    build: ./web
+    container_name: les-indecis-web
+    ports: 
+      - '80:80'
