@@ -1,12 +1,12 @@
 [submodule "api"]
 	path = api
-	url = https://github.com/esuau/les-indecis-api.git
+	url = https://git.undefined.inside.esiag.info/les-indecis-api.git
 [submodule "web"]
 	path = web
-	url = https://github.com/esuau/les-indecis-web.git
+	url = https://git.undefined.inside.esiag.info/les-indecis-web.git
 [submodule "android"]
 	path = android
-	url = https://github.com/esuau/les-indecis-android.git
+	url = https://git.undefined.inside.esiag.info/les-indecis-android.git
 [submodule "server"]
 	path = server
-	url = https://github.com/esuau/les-indecis-server.git
+	url = https://git.undefined.inside.esiag.info/les-indecis-server.git
