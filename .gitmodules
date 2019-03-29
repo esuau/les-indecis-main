@@ -10,3 +10,6 @@
 [submodule "server"]
 	path = server
 	url = http://git.undefined.inside.esiag.info/les-indecis/les-indecis-server.git
+[submodule "les-indecis-nfc"]
+	path = les-indecis-nfc
+	url = http://git.undefined.inside.esiag.info/les-indecis/les-indecis-nfc
