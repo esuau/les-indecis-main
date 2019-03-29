@@ -13,6 +13,3 @@
 [submodule "nfc"]
 	path = nfc
 	url = http://git.undefined.inside.esiag.info/les-indecis/les-indecis-nfc.git
-[submodule "scripts"]
-	path = scripts
-	url = http://git.undefined.inside.esiag.info/les-indecis/les-indecis-scripts.git
