@@ -13,3 +13,6 @@
 [submodule "borne"]
 	path = borne
 	url = http://git.undefined.inside.esiag.info/les-indecis/les-indecis-borne.git
+[submodule "nfc"]
+	path = nfc
+	url = http://git.undefined.inside.esiag.info/les-indecis/les-indecis-nfc.git
