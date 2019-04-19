@@ -16,3 +16,6 @@
 [submodule "nfc"]
 	path = nfc
 	url = http://git.undefined.inside.esiag.info/les-indecis/les-indecis-nfc.git
+[submodule "tableau-de-bord"]
+	path = tableau-de-bord
+	url = http://git.undefined.inside.esiag.info/les-indecis/les-indecis-tableau-de-bord.git
