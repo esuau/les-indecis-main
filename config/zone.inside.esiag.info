@@ -1,0 +1,50 @@
+$TTL 86400
+@ IN SOA ns.undefined.inside.esiag.info. fw.undefined.inside.esiag.info. (
+        2019021501      ;serial
+        10800           ;refresh
+        600             ;retry
+        1814400         ;expiry
+        10800)          ;minimum
+@       IN              NS      ns.undefined.inside.esiag.info.
+
+ns.undefined.inside.esiag.info.                 IN                      A       192.168.20.6
+git.undefined.inside.esiag.info.                IN                      A       192.168.20.6
+bdd.undefined.inside.esiag.info.                IN                      A       192.168.20.6
+backend.undefined.inside.esiag.info.            IN                      A       192.168.20.6
+rmq.undefined.inside.esiag.info.                IN                      A       192.168.20.6
+rmq-mgmt-1.undefined.inside.esiag.info.         IN                      A       192.168.20.6
+rmq-mgmt-2.undefined.inside.esiag.info.         IN                      A       192.168.20.6
+notif.undefined.inside.esiag.info.              IN                      A       192.168.20.6
+frontend.undefined.inside.esiag.info.           IN                      A       192.168.20.6
+api.undefined.inside.esiag.info.                IN                      A       192.168.20.6
+myjira.undefined.inside.esiag.info.             IN                      A       192.168.20.6
+haproxy.undefined.inside.esiag.info.            IN                      A       192.168.20.6
+bill.undefined.inside.esiag.info.               IN                      A       192.168.20.6
+
+gitlab.undefined.inside.esiag.info.             IN                      A       192.168.100.10
+jira.undefined.inside.esiag.info.               IN                      A       192.168.100.2
+dev.undefined.inside.esiag.info.                IN                      A       192.168.100.3
+inte.undefined.inside.esiag.info.               IN                      A       192.168.100.4
+preprod.undefined.inside.esiag.info.            IN                      A       192.168.100.5
+
+bdd-1.undefined.inside.esiag.info.              IN                      A       192.168.100.6
+bdd-2.undefined.inside.esiag.info.              IN                      A       192.168.100.7
+bdd-vip.undefined.inside.esiag.info.            IN                      A       192.168.100.8
+
+nfs.undefined.inside.esiag.info.                IN                      A       192.168.100.9
+
+hap-1.undefined.inside.esiag.info.              IN                      A       192.168.100.11
+hap-2.undefined.inside.esiag.info.              IN                      A       192.168.100.12
+hap-vip.undefined.inside.esiag.info.            IN                      A       192.168.100.13
+
+back-1.undefined.inside.esiag.info.             IN                      A       192.168.100.14
+back-2.undefined.inside.esiag.info.             IN                      A       192.168.100.15
+back-vip.undefined.inside.esiag.info.           IN                      A       192.168.100.16
+
+rmq-1.undefined.inside.esiag.info.              IN                      A       192.168.100.17
+rmq-2.undefined.inside.esiag.info.              IN                      A       192.168.100.18
+rmq-vip.undefined.inside.esiag.info.            IN                      A       192.168.100.19
+
+api-vip.undefined.inside.esiag.info.            IN                      A       192.168.100.20
+notif-vip.undefined.inside.esiag.info.          IN                      A       192.168.100.21
+bill-vip.undefined.inside.esiag.info.           IN                      A       192.168.100.30
