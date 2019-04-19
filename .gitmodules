@@ -1,9 +1,6 @@
 [submodule "api"]
 	path = api
 	url = http://git.undefined.inside.esiag.info/les-indecis/les-indecis-api.git
-[submodule "web"]
-	path = web
-	url = http://git.undefined.inside.esiag.info/les-indecis/les-indecis-web.git
 [submodule "android"]
 	path = android
 	url = http://git.undefined.inside.esiag.info/les-indecis/les-indecis-android.git
