@@ -1,18 +1,18 @@
 [submodule "api"]
 	path = api
-	url = http://git.undefined.inside.esiag.info/les-indecis/les-indecis-api.git
+	url = https://github.com/esuau/les-indecis-api.git
 [submodule "android"]
 	path = android
-	url = http://git.undefined.inside.esiag.info/les-indecis/les-indecis-android.git
+	url = https://github.com/esuau/les-indecis-android.git
 [submodule "server"]
 	path = server
-	url = http://git.undefined.inside.esiag.info/les-indecis/les-indecis-server.git
+	url = https://github.com/esuau/les-indecis-server.git
 [submodule "borne"]
 	path = borne
-	url = http://git.undefined.inside.esiag.info/les-indecis/les-indecis-borne.git
+	url = https://github.com/esuau/les-indecis-station.git
 [submodule "nfc"]
 	path = nfc
-	url = http://git.undefined.inside.esiag.info/les-indecis/les-indecis-nfc.git
+	url = https://github.com/esuau/les-indecis-nfc.git
 [submodule "tableau-de-bord"]
 	path = tableau-de-bord
-	url = http://git.undefined.inside.esiag.info/les-indecis/les-indecis-tableau-de-bord.git
+	url = https://github.com/esuau/les-indecis-dashboard.git
